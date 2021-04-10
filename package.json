@@ -1,7 +1,7 @@
 {
   "name": "seesaw",
   "scripts": {
-    "build": "parcel build index.html",
+    "build": "parcel build index.html --public-url /20210411-seesaw/",
     "start": "parcel serve index.html"
   },
   "dependencies": {
